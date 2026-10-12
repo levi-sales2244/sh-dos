@@ -5,7 +5,7 @@
 
 # Current Version
 
-The current version is PRE-ALPHA 0x00. This version it's just for some tests with 16 bits Assembly, like write `Welcome to SH-DOS!` on the screen. In the next release, I will begin the development of a transition from REAL mode to PROTECTED mode.
+The current version is PRE-ALPHA 0x00. This version it's just for some tests with 16 bits Assembly, like write `WELCOME TO SH-DOS!` on the screen. In the next release, I will begin the development of a transition from REAL mode to PROTECTED mode.
 
 # TODO list
 
